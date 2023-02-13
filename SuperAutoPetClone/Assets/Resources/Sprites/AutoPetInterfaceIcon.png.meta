@@ -1,0 +1,663 @@
+fileFormatVersion: 2
+guid: aec507f1ae6aa77428b8c8cf7a85b29d
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AutoPetInterfaceIcon_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 775.5
+        width: 258.33334
+        height: 258.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 466bf40bb6d7818469750eaaf67dcb4c
+      internalID: 1076349134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetInterfaceIcon_1
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 775.5
+        width: 258.33334
+        height: 258.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b8323e413dc0cd46acbf516c9e4f96c
+      internalID: -364236867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetInterfaceIcon_2
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 775.5
+        width: 258.33334
+        height: 258.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35a41451a383cdd47a0576bb6871ff89
+      internalID: -1735862736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetInterfaceIcon_3
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 775.5
+        width: 258.33334
+        height: 258.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac11554f11d5d8b44b8f0b69335dfc12
+      internalID: -2036589932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetInterfaceIcon_4
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 775.5
+        width: 258.33334
+        height: 258.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a16c9e18c93b1a44a6eb58188aec4e9
+      internalID: -1352117814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetInterfaceIcon_5
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 775.5
+        width: 258.33334
+        height: 258.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc7109cce09bab349a36d1ab31083038
+      internalID: 433010996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetInterfaceIcon_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 517.5
+        width: 258.33334
+        height: 258.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f921f61adf4b2624aa8851da1ab8933d
+      internalID: 994902189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetInterfaceIcon_7
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 517.5
+        width: 258.33334
+        height: 258.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 311b2f4ed3b08da4c9c386a4305b2d49
+      internalID: 1926847941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetInterfaceIcon_8
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 517.5
+        width: 258.33334
+        height: 258.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cae93f903b118084d999fa92de7e06c3
+      internalID: 944248491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetInterfaceIcon_9
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 517.5
+        width: 258.33334
+        height: 258.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c50a9dde48b9704990b42956de9cd5a
+      internalID: -1303025936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetInterfaceIcon_10
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 517.5
+        width: 258.33334
+        height: 258.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 613d001d54b5aeb449c9806b36a4221f
+      internalID: -1443750676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetInterfaceIcon_11
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 517.5
+        width: 258.33334
+        height: 258.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 542624e4503e5cb49bbe3cb57fe2b6b9
+      internalID: 2039259998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetInterfaceIcon_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 259.5
+        width: 258.33334
+        height: 258.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f90d35ae7e970d348bd3a1a66928d6ab
+      internalID: 1159982906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetInterfaceIcon_13
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 259.5
+        width: 258.33334
+        height: 258.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cea4c1eea3591d541aae28d2861bc64b
+      internalID: 436937483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetInterfaceIcon_14
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 259.5
+        width: 258.33334
+        height: 258.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14b8ccbb17395024a85eba5aaa36b65a
+      internalID: 985453796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetInterfaceIcon_15
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 259.5
+        width: 258.33334
+        height: 258.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e974e8e2b8d4c44db93d5369dbc1991
+      internalID: 1131828687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetInterfaceIcon_16
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 259.5
+        width: 258.33334
+        height: 258.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd927cbfd5ceeba44b96df1fd4f501a7
+      internalID: -1058274345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetInterfaceIcon_17
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 259.5
+        width: 258.33334
+        height: 258.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c72084750068893418ab1c05f0a393a3
+      internalID: 781374774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetInterfaceIcon_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1.5
+        width: 258.33334
+        height: 258.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 494665953799df945856f7142cc678d9
+      internalID: -930307340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetInterfaceIcon_19
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1.5
+        width: 258.33334
+        height: 258.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d878f1266ef9804c879b27aef2efdab
+      internalID: -51622287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetInterfaceIcon_20
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 1.5
+        width: 258.33334
+        height: 258.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89c84c8f096fc94429b97ed7d8f72ff4
+      internalID: -396381857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetInterfaceIcon_21
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 1.5
+        width: 258.33334
+        height: 258.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8d6f810a01a5134d9b2c67d8842f10a
+      internalID: -1335773611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetInterfaceIcon_22
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 1.5
+        width: 258.33334
+        height: 258.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82582b8439c0682499d9f2f8baa6e4a6
+      internalID: -67162203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetInterfaceIcon_23
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 1.5
+        width: 258.33334
+        height: 258.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bfb600a4bd4d2a43893090208cefd79
+      internalID: -846906576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      AutoPetInterfaceIcon_11: 2039259998
+      AutoPetInterfaceIcon_4: -1352117814
+      AutoPetInterfaceIcon_9: -1303025936
+      AutoPetInterfaceIcon_23: -846906576
+      AutoPetInterfaceIcon_8: 944248491
+      AutoPetInterfaceIcon_0: 1076349134
+      AutoPetInterfaceIcon_3: -2036589932
+      AutoPetInterfaceIcon_1: -364236867
+      AutoPetInterfaceIcon_12: 1159982906
+      AutoPetInterfaceIcon_17: 781374774
+      AutoPetInterfaceIcon_5: 433010996
+      AutoPetInterfaceIcon_21: -1335773611
+      AutoPetInterfaceIcon_18: -930307340
+      AutoPetInterfaceIcon_6: 994902189
+      AutoPetInterfaceIcon_13: 436937483
+      AutoPetInterfaceIcon_2: -1735862736
+      AutoPetInterfaceIcon_16: -1058274345
+      AutoPetInterfaceIcon_14: 985453796
+      AutoPetInterfaceIcon_20: -396381857
+      AutoPetInterfaceIcon_19: -51622287
+      AutoPetInterfaceIcon_15: 1131828687
+      AutoPetInterfaceIcon_10: -1443750676
+      AutoPetInterfaceIcon_7: 1926847941
+      AutoPetInterfaceIcon_22: -67162203
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

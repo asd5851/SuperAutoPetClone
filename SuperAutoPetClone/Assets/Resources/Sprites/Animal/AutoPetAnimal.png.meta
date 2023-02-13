@@ -1,0 +1,4095 @@
+fileFormatVersion: 2
+guid: 82521f3fc66c09545add70539abb4ef2
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AutoPetAnimal_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3946
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bdfba7fb3e269444b3ffa73ebe47fd8
+      internalID: -545263477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_1
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 3946
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cbc66e479c364645bf6d926b076f3e7
+      internalID: -1247366876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_2
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 3946
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c7521fdf1f3b1e4f89e1857e4f2d7f7
+      internalID: 930117551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_3
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 3946
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46f329c0168cde747b125b7f741ba590
+      internalID: -1694573495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_4
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 3946
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d823ae8623745ce43b1051c5dd6be90c
+      internalID: 326147361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_5
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 3946
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc4475ceac90c3a4d8b0f5557b2a3aef
+      internalID: -842954304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_6
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 3946
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a35c9861c546eb94ea1626c757552183
+      internalID: -875744915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_7
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 3946
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f0473a65179cfc42a0374f3bef753f6
+      internalID: -81331649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_8
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 3946
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ed7003147073e348925951c8fff2ec1
+      internalID: 934026561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_9
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 3946
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f984762e2f0434b44995c70244f31e59
+      internalID: -48563103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3714
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e64f60f236032d0459208264c0fc025d
+      internalID: 107326744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_11
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 3714
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdc65487b5f05e24fa0f7c2b1c3233a5
+      internalID: 1934525406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_12
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 3714
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22e108f10f058e1418d54fba7c439cc0
+      internalID: 1191077920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_13
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 3714
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8d825d945fdb8d4692525bd219306ff
+      internalID: 2036869940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_14
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 3714
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1990fdcebf401864198de53c3ab2380d
+      internalID: -460084144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_15
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 3714
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 502f87e32ea2faa4bb81de2c8442b909
+      internalID: 1318267780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_16
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 3714
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74008a01db49d39439b4d4b698722d83
+      internalID: 1799882704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_17
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 3714
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f8efd211b9faf8419c7f0fcd0b80237
+      internalID: -317402608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_18
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 3714
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e85c50b38cacf8640aaee2dd85e716ce
+      internalID: -1305064234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_19
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 3714
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1d3f1d78752b474397bbd23e68484fd
+      internalID: -1292983995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3482
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7347bd5c08093ca4683464f055378614
+      internalID: 655916640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_21
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 3482
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f7dcf0ec2ef2ae43b3a00b0a4d629d4
+      internalID: 1982108769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_22
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 3482
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12ffae9e5be3dc0459a24337ad1a6489
+      internalID: 1357519635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_23
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 3482
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32c921279f4b4b74fbfbf4f46f04ed1c
+      internalID: 100312371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_24
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 3482
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e19b5408eab29444bb84b95f2b4f20de
+      internalID: -1889587419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_25
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 3482
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 297ba795b709c8a42896cf9bff20f545
+      internalID: 1142450476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_26
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 3482
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54d1ebb7f835cbe4e9ba35ef15c77220
+      internalID: -1596236583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_27
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 3482
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8f102e5d75215d4b89f249133299c1d
+      internalID: 339344541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_28
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 3482
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d8e6a8285c3c0b46baeee83525826f8
+      internalID: -539320901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_29
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 3482
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8df8db7e3693f74c93f4aafa582b213
+      internalID: 1506843575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3250
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6d088a24c897484aab5fc712fa0ecb3
+      internalID: 819573013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_31
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 3250
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e5f4555b250a274fa7bb020e839b3d2
+      internalID: 458745379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_32
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 3250
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d5bae103c4620045b4f0c08ecc72f7e
+      internalID: -2023478572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_33
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 3250
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47b8232516e988046a4f2a288251b647
+      internalID: -2126313197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_34
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 3250
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b070b59616a3b4469c08a318033dee7
+      internalID: 1170758244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_35
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 3250
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beb40845925e1c84f971d89c7d395961
+      internalID: 179169418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_36
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 3250
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f59d400d4367676489ffbf2d913062c0
+      internalID: 1022917470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_37
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 3250
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3575d9788a2177b42a060994b52fd078
+      internalID: 670708006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_38
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 3250
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 679c031d29d40b647b4ddcc2943d8e48
+      internalID: -1763388282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_39
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 3250
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db3946d48f123454d9a185376e0e5363
+      internalID: -304238506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3018
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d891a8d61105e545843d865d07ff36c
+      internalID: 783637447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_41
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 3018
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 068bbb38b76e9f84ba8a6787b6747a21
+      internalID: 583650063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_42
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 3018
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e80daf91df4a02e479a5f059708e7ace
+      internalID: -2078963585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_43
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 3018
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb429b736a14d824487e2ed604bea24d
+      internalID: -610789811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_44
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 3018
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eace548da3f45fc4a8aff77269ec3cdb
+      internalID: -1126396568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_45
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 3018
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c9dc373d6a644f4d8a354a1b5996a3c
+      internalID: 713601651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_46
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 3018
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2109014d18e683d47bbd42ad0ce44068
+      internalID: 47509432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_47
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 3018
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4eff256c67bc7c4aa05746afeb31d76
+      internalID: -1135207517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_48
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 3018
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbbbc4917785f434785feb55f65a9c56
+      internalID: 1004480696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_49
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 3018
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbd023956bfba5849bf2ffc9dfed2e76
+      internalID: 1477663154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2786
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5be638ce3951abd499a74d6446eb0417
+      internalID: -799550173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_51
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 2786
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 495ebbb6d3bddd049a26076757075845
+      internalID: 38229673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_52
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 2786
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b7f36ae0ba117343b6116683838a903
+      internalID: 1418670201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_53
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 2786
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13a872650ea81ac4c819f7170fa1221c
+      internalID: -968423039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_54
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 2786
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db5fc0db96387504d90700616fb57032
+      internalID: -117448641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_55
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 2786
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4599b2795b0ad13459aca8083b54877b
+      internalID: 556774843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_56
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 2786
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46ba7b2e1354c96458458e27fa62fea8
+      internalID: -18755781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_57
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 2786
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6e147d58e6306941b704eb36ee22fd2
+      internalID: 1373828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_58
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 2786
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f667b3f74c08644b9188bf81934b35
+      internalID: -1516838886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_59
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 2786
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57fbd91409656ef4e8b9ae92920f1f1b
+      internalID: -1829556562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2554
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0198e1816cbe4bb4087dab1bced8b03e
+      internalID: 1636031978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_61
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 2554
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87f35f20ec9814a4cb57dd40c48b4db9
+      internalID: -785284682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_62
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 2554
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c87eb5f25fe364898a6ae56ccd620a
+      internalID: 291129872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_63
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 2554
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3f28c56ef07593458ed928222fecec7
+      internalID: -620332569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_64
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 2554
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a74609c1b43904744b27e7710ad58bb4
+      internalID: 970950909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_65
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 2554
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4530f413aef47c4e8f30887c7cccba3
+      internalID: 1694828576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_66
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 2554
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d858e422c7ea7e247bbdba5bc40fe8a8
+      internalID: -540674846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_67
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 2554
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bae035c3a7bf1a949b3d267c4734b79a
+      internalID: -571984324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_68
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 2554
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86ab33a84fa84374eb2cb6513d0f87be
+      internalID: 831266649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_69
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 2554
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad550dd58955cec47b1771a2e03f9970
+      internalID: 878054079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2322
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab4c75e6ee0691c4194948837689823e
+      internalID: 453646014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_71
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 2322
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ca0d42b8af49e347ab9dfb77e063ec7
+      internalID: -203227795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_72
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 2322
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4dd7e731c6e3f54689dfd1d6057b45d
+      internalID: -645225941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_73
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 2322
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78822e5ae50a0014f918d6bfae5e3dd9
+      internalID: 729792300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_74
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 2322
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5ed056f2c077d4429863b23ef60ab86
+      internalID: 235236791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_75
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 2322
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 433354aa45dc34748a8a814c22592421
+      internalID: -761461606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_76
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 2322
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af427e8c5c471c643a1c914cc556f848
+      internalID: -1161232044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_77
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 2322
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 189c31ed3d2782d4db1aa1c6220d9de0
+      internalID: 736732957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_78
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 2322
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2e8d96becf7dcc48975987c36b66cad
+      internalID: -902298990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_79
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 2322
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc0e2cede8094fa4fae3f2bc341cb919
+      internalID: 1455791885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2090
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c839ef8403ffda4bb202b6ad8f27858
+      internalID: 1875921878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_81
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 2090
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb7abb7dc2758fa428abb537f7456c76
+      internalID: -382596865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_82
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 2090
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9233f7303df820845b784ecde40f9ca5
+      internalID: 307407153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_83
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 2090
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c1e1f519758c63469594f4404150450
+      internalID: -1405394153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_84
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 2090
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d7424b01a63adf44af1d9af8e284b78
+      internalID: 459659011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_85
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 2090
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a15e7614da44b0449395757472cfcb7
+      internalID: -215991949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_86
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 2090
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e962bde6fe025024bb36c98b225ef6ca
+      internalID: 745729332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_87
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 2090
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b927c37edad46948a9d7dae2846e8bf
+      internalID: -270249474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_88
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 2090
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d41123a12b15f14db6c614872f23e65
+      internalID: -1531165938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_89
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 2090
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66c2b17e67cbfc246aa1ccd3a15ca13a
+      internalID: -378482340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1858
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9a410c7864095244885b850782db825
+      internalID: -1872191497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_91
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 1858
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c05ed6ad7b5a5a6498a82d446e9f45bc
+      internalID: -1703713528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_92
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1858
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee812d07082c0b9459593788aa909e8d
+      internalID: 1237213861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_93
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1858
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc67df5c293a51440976851dc3061a2f
+      internalID: 137497490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_94
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 1858
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a5cae2c778ea6043a73baeae2198941
+      internalID: -1672828745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_95
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 1858
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d02cde9fc41bfd341bc3d75c1168d55c
+      internalID: 712165825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_96
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 1858
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46ea0f48832e8694d9d866fa95cb25eb
+      internalID: 1404931060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_97
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 1858
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c592d4978dac88840a28f29c1fdb23b8
+      internalID: 270325381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_98
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 1858
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e8a4058a08b10f449208e33c1cf7a07
+      internalID: 279901674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_99
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 1858
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63021526d75597c4288d4ae5b2806f3e
+      internalID: -943071478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1626
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b7bdf3567c8f33428ad4aca56071ce9
+      internalID: -474433978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_101
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 1626
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95ea1ed7648cabe49af5ca156b97e0fa
+      internalID: 1373901120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_102
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1626
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a4375672a744d4890bf5f1bc3e98d9
+      internalID: 714391961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_103
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1626
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa4830e1e0454f47ad6b17eb25a997c
+      internalID: -601233619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_104
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 1626
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd7b4fd01b33bcb47a389d6e561a9b59
+      internalID: -524562984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_105
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 1626
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b91f759a6d86132448e3251d746d877b
+      internalID: -1861242118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_106
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 1626
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1699464b217efe44e88e5a908d1a0b50
+      internalID: -1920649215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_107
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 1626
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b912af8e410f2943bb39dceecad6ebd
+      internalID: 480123989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_108
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 1626
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47c246234734d1447bb88eeb0fa93794
+      internalID: 1440591051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_109
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 1626
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af994b31145826a43a16c40decf3bdcb
+      internalID: -1308619734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1394
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9cc98d825f0e2642a6232322f1dd8c4
+      internalID: 1217020285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_111
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 1394
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b5cb021684885343a48ac79b3e7f214
+      internalID: -96106238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_112
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1394
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6c039b73e0b34844b7b29a90cf5ec08
+      internalID: -1772353080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_113
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1394
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01dc1f9217202914c9fa985a8d43cc17
+      internalID: -1140671963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_114
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 1394
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3c8e514ce6a6c64f9943867869cf2b0
+      internalID: 883241086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_115
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 1394
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 097e435392a8bb143a32a146c06cf9bb
+      internalID: 1193269058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_116
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 1394
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed2d2cad13bf2b14abee2ddc427ff073
+      internalID: 191993305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_117
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 1394
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a90b4914da0b0c4da39e5f989b43e45
+      internalID: 1042679627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_118
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 1394
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac96700f585fec64d96eeba13cb0312e
+      internalID: -753725043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_119
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 1394
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b73387dceb424d4a9df005278e67d72
+      internalID: 1668389482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1162
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ff9cf620e33fdf479d5c81bce9db408
+      internalID: -1205693391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_121
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 1162
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 519c210594c29ad44969b64931575a10
+      internalID: -1597588113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_122
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1162
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a847b8567177d240a9e4a270f0297b3
+      internalID: 476540744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_123
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1162
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7d17462293852a499d4e89e1866b8d9
+      internalID: 30233700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_124
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 1162
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ecbcf45dbbb63c4da4aef3fe289f49b
+      internalID: 407691778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_125
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 1162
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3015e5767744c2c4786b829c35b58fc7
+      internalID: -1688915976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_126
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 1162
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca3c99d050ee3e54a944ef4d53c99fe9
+      internalID: 1028729286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_127
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 1162
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e132a90935256384db72aa3e344aff5e
+      internalID: 1156268991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_128
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 1162
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d161c206c6ac3c49b0f5d4a247779d1
+      internalID: -1984046552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_129
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 1162
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f2c948ec4ce0974e8ce2d224b5942e3
+      internalID: 881944235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_130
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 930
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5ebef767472052438d837a00f815b70
+      internalID: -1090057521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_131
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 930
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c567db2acc01f944786eca8d8c1001ab
+      internalID: 1362349171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_132
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 930
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c26c67b5322b644890c0ed1b355fd34
+      internalID: 295230532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_133
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 930
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e30db0d967c0ba4e8633b2e45430aa8
+      internalID: 1192551788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_134
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 930
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c298e795d12cda42a9b7bf2f9e00f18
+      internalID: 1019006880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_135
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 930
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cd127e78b180fb4fb6f1a94d91face8
+      internalID: -254716447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_136
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 930
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d286e399931ae144b91bed0d6673fac
+      internalID: -115927669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_137
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 930
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f50a6b7242cdfe54cbebbf75996d7372
+      internalID: 736698578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_138
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 930
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc3166de6e6ae4946a82906fd43d661f
+      internalID: -2145493367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_139
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 930
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 700c6c5ad0e2bb84292524330565d715
+      internalID: -1399175028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_140
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 698
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 981b1793e2236e842978770956ee38a9
+      internalID: -305905716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_141
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 698
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 490ec601731156447a7de7db23e918c3
+      internalID: 1205280322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_142
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 698
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcc1efbd15e9f3745a136574dfd11e10
+      internalID: -652688066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_143
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 698
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb0fb0e1ec1311f45995febd759b7821
+      internalID: 340307694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_144
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 698
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3074b1da32075b74bbc9a09e20b3269a
+      internalID: 2093634881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_145
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 698
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bdf90da4cf43a349a54fec46f139556
+      internalID: -1308921558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_146
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 698
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 029817b4603019a4fa5c50cdb98e1965
+      internalID: 1961840342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_147
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 698
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f190ad1a4cc4db4ba4f1285d955eb6d
+      internalID: -1820789705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_148
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 698
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e6056f9cc6417d48bb28a58fabecb41
+      internalID: 1678330991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_149
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 698
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 279a699768874514c8b4cfc4102b2e44
+      internalID: -274444527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_150
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 466
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 299eaeb5b9bd9b84ea141daca9de70db
+      internalID: -708812563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_151
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 466
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20890389be31a594da7f14edbf7312f6
+      internalID: -160977621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_152
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 466
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01d54aba5dfda7d46833a4481d3c0ccb
+      internalID: 492758986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_153
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 466
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71ce4d8f9d4ad8042abd0b24b8eb6f2f
+      internalID: 1646476227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_154
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 466
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e4022e3eb71bdf499e06eca62be5a96
+      internalID: 989520943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_155
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 466
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8edb38fd7ff2a5f48a87bd2828460474
+      internalID: 315674973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_156
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 466
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b87d4bc05aa49814aa60e11ce1a01048
+      internalID: -874496010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_157
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 466
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a21535b0290350d44939ace79f9f381a
+      internalID: -1183205907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_158
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 466
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cf77cdf5442dcc438e0c92edb2186cf
+      internalID: 1283624658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_159
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 466
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 616931fb0c19a6d4f8b924e6d3459b93
+      internalID: 965581192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 234
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ff12a763e114b340bf1b9b03a192d20
+      internalID: -1024485071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_161
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 234
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db543e082e93d0f409e2360b7026ef0f
+      internalID: -377409692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_162
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 234
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37fd88ace26398e42bfea5ec37fb850f
+      internalID: -234847272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_163
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 234
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66bc245bb3bec8d4e86860b8bb0dc557
+      internalID: 1331144872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_164
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 234
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f2a2bc81b8f20c4f889e8bb2124b136
+      internalID: 788514577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_165
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 234
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2406a2d8b45c3914e81d797565be9bd7
+      internalID: 15826017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_166
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 234
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fe159305df4194419b2168bde1c4da8
+      internalID: -1307311587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_167
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 234
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 455ab7cb41ecc1a4ebf6d1b2ad31cfe3
+      internalID: -746406900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_168
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 234
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fde7f6602eb0ce84794c0a6ae040f532
+      internalID: 1636357996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_169
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 234
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b26211466b2dc44099f72a9b6a5cbb0
+      internalID: 899488675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_170
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32c443dd3c006224aa9453848f819947
+      internalID: -484591234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_171
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 2
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbc8edbcb933e054289833eb10586107
+      internalID: 1879300227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_172
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 2
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93c8375f35e61fa46930913b929e63c3
+      internalID: -833927903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_173
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 2
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4214d17325ba244984c9a51155c4a25
+      internalID: 658922979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_174
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 2
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4080595b64f08894c999a62039c1ec94
+      internalID: 845751757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_175
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 2
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ee7bc948926fdc478bb66bc85a21c52
+      internalID: 2119169628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_176
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 2
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc0dc60120ebd594c8566cb965defec1
+      internalID: -366271525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_177
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 2
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61aaae216c0446846bcf459d8f1df47b
+      internalID: -677474546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_178
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 2
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c365b7cbb5887984bb9bdba4bba6b60e
+      internalID: 1339833003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AutoPetAnimal_179
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 2
+        width: 232
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebed7fa621066c54691b3d5af61f1367
+      internalID: -633610395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      AutoPetAnimal_42: -2078963585
+      AutoPetAnimal_67: -571984324
+      AutoPetAnimal_94: -1672828745
+      AutoPetAnimal_64: 970950909
+      AutoPetAnimal_65: 1694828576
+      AutoPetAnimal_12: 1191077920
+      AutoPetAnimal_1: -1247366876
+      AutoPetAnimal_171: 1879300227
+      AutoPetAnimal_149: -274444527
+      AutoPetAnimal_59: -1829556562
+      AutoPetAnimal_32: -2023478572
+      AutoPetAnimal_83: -1405394153
+      AutoPetAnimal_166: -1307311587
+      AutoPetAnimal_173: 658922979
+      AutoPetAnimal_124: 407691778
+      AutoPetAnimal_160: -1024485071
+      AutoPetAnimal_136: -115927669
+      AutoPetAnimal_105: -1861242118
+      AutoPetAnimal_165: 15826017
+      AutoPetAnimal_102: 714391961
+      AutoPetAnimal_129: 881944235
+      AutoPetAnimal_97: 270325381
+      AutoPetAnimal_26: -1596236583
+      AutoPetAnimal_174: 845751757
+      AutoPetAnimal_114: 883241086
+      AutoPetAnimal_125: -1688915976
+      AutoPetAnimal_30: 819573013
+      AutoPetAnimal_78: -902298990
+      AutoPetAnimal_88: -1531165938
+      AutoPetAnimal_69: 878054079
+      AutoPetAnimal_3: -1694573495
+      AutoPetAnimal_137: 736698578
+      AutoPetAnimal_164: 788514577
+      AutoPetAnimal_10: 107326744
+      AutoPetAnimal_37: 670708006
+      AutoPetAnimal_71: -203227795
+      AutoPetAnimal_91: -1703713528
+      AutoPetAnimal_93: 137497490
+      AutoPetAnimal_176: -366271525
+      AutoPetAnimal_123: 30233700
+      AutoPetAnimal_29: 1506843575
+      AutoPetAnimal_168: 1636357996
+      AutoPetAnimal_36: 1022917470
+      AutoPetAnimal_19: -1292983995
+      AutoPetAnimal_73: 729792300
+      AutoPetAnimal_75: -761461606
+      AutoPetAnimal_112: -1772353080
+      AutoPetAnimal_86: 745729332
+      AutoPetAnimal_113: -1140671963
+      AutoPetAnimal_52: 1418670201
+      AutoPetAnimal_8: 934026561
+      AutoPetAnimal_55: 556774843
+      AutoPetAnimal_100: -474433978
+      AutoPetAnimal_6: -875744915
+      AutoPetAnimal_146: 1961840342
+      AutoPetAnimal_139: -1399175028
+      AutoPetAnimal_111: -96106238
+      AutoPetAnimal_161: -377409692
+      AutoPetAnimal_40: 783637447
+      AutoPetAnimal_155: 315674973
+      AutoPetAnimal_63: -620332569
+      AutoPetAnimal_5: -842954304
+      AutoPetAnimal_11: 1934525406
+      AutoPetAnimal_141: 1205280322
+      AutoPetAnimal_148: 1678330991
+      AutoPetAnimal_72: -645225941
+      AutoPetAnimal_15: 1318267780
+      AutoPetAnimal_95: 712165825
+      AutoPetAnimal_99: -943071478
+      AutoPetAnimal_147: -1820789705
+      AutoPetAnimal_117: 1042679627
+      AutoPetAnimal_157: -1183205907
+      AutoPetAnimal_150: -708812563
+      AutoPetAnimal_126: 1028729286
+      AutoPetAnimal_108: 1440591051
+      AutoPetAnimal_35: 179169418
+      AutoPetAnimal_179: -633610395
+      AutoPetAnimal_120: -1205693391
+      AutoPetAnimal_79: 1455791885
+      AutoPetAnimal_172: -833927903
+      AutoPetAnimal_13: 2036869940
+      AutoPetAnimal_152: 492758986
+      AutoPetAnimal_44: -1126396568
+      AutoPetAnimal_53: -968423039
+      AutoPetAnimal_128: -1984046552
+      AutoPetAnimal_54: -117448641
+      AutoPetAnimal_22: 1357519635
+      AutoPetAnimal_85: -215991949
+      AutoPetAnimal_23: 100312371
+      AutoPetAnimal_0: -545263477
+      AutoPetAnimal_25: 1142450476
+      AutoPetAnimal_2: 930117551
+      AutoPetAnimal_39: -304238506
+      AutoPetAnimal_133: 1192551788
+      AutoPetAnimal_74: 235236791
+      AutoPetAnimal_76: -1161232044
+      AutoPetAnimal_50: -799550173
+      AutoPetAnimal_122: 476540744
+      AutoPetAnimal_58: -1516838886
+      AutoPetAnimal_81: -382596865
+      AutoPetAnimal_156: -874496010
+      AutoPetAnimal_96: 1404931060
+      AutoPetAnimal_90: -1872191497
+      AutoPetAnimal_92: 1237213861
+      AutoPetAnimal_159: 965581192
+      AutoPetAnimal_4: 326147361
+      AutoPetAnimal_154: 989520943
+      AutoPetAnimal_56: -18755781
+      AutoPetAnimal_167: -746406900
+      AutoPetAnimal_46: 47509432
+      AutoPetAnimal_49: 1477663154
+      AutoPetAnimal_134: 1019006880
+      AutoPetAnimal_61: -785284682
+      AutoPetAnimal_144: 2093634881
+      AutoPetAnimal_18: -1305064234
+      AutoPetAnimal_170: -484591234
+      AutoPetAnimal_178: 1339833003
+      AutoPetAnimal_163: 1331144872
+      AutoPetAnimal_140: -305905716
+      AutoPetAnimal_14: -460084144
+      AutoPetAnimal_82: 307407153
+      AutoPetAnimal_98: 279901674
+      AutoPetAnimal_31: 458745379
+      AutoPetAnimal_28: -539320901
+      AutoPetAnimal_87: -270249474
+      AutoPetAnimal_132: 295230532
+      AutoPetAnimal_135: -254716447
+      AutoPetAnimal_45: 713601651
+      AutoPetAnimal_80: 1875921878
+      AutoPetAnimal_107: 480123989
+      AutoPetAnimal_169: 899488675
+      AutoPetAnimal_68: 831266649
+      AutoPetAnimal_109: -1308619734
+      AutoPetAnimal_142: -652688066
+      AutoPetAnimal_47: -1135207517
+      AutoPetAnimal_48: 1004480696
+      AutoPetAnimal_60: 1636031978
+      AutoPetAnimal_66: -540674846
+      AutoPetAnimal_143: 340307694
+      AutoPetAnimal_62: 291129872
+      AutoPetAnimal_57: 1373828
+      AutoPetAnimal_118: -753725043
+      AutoPetAnimal_158: 1283624658
+      AutoPetAnimal_153: 1646476227
+      AutoPetAnimal_175: 2119169628
+      AutoPetAnimal_145: -1308921558
+      AutoPetAnimal_34: 1170758244
+      AutoPetAnimal_9: -48563103
+      AutoPetAnimal_121: -1597588113
+      AutoPetAnimal_33: -2126313197
+      AutoPetAnimal_162: -234847272
+      AutoPetAnimal_106: -1920649215
+      AutoPetAnimal_77: 736732957
+      AutoPetAnimal_38: -1763388282
+      AutoPetAnimal_7: -81331649
+      AutoPetAnimal_24: -1889587419
+      AutoPetAnimal_16: 1799882704
+      AutoPetAnimal_115: 1193269058
+      AutoPetAnimal_89: -378482340
+      AutoPetAnimal_104: -524562984
+      AutoPetAnimal_138: -2145493367
+      AutoPetAnimal_20: 655916640
+      AutoPetAnimal_116: 191993305
+      AutoPetAnimal_17: -317402608
+      AutoPetAnimal_41: 583650063
+      AutoPetAnimal_43: -610789811
+      AutoPetAnimal_70: 453646014
+      AutoPetAnimal_101: 1373901120
+      AutoPetAnimal_110: 1217020285
+      AutoPetAnimal_27: 339344541
+      AutoPetAnimal_119: 1668389482
+      AutoPetAnimal_151: -160977621
+      AutoPetAnimal_127: 1156268991
+      AutoPetAnimal_177: -677474546
+      AutoPetAnimal_130: -1090057521
+      AutoPetAnimal_131: 1362349171
+      AutoPetAnimal_103: -601233619
+      AutoPetAnimal_51: 38229673
+      AutoPetAnimal_84: 459659011
+      AutoPetAnimal_21: 1982108769
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
