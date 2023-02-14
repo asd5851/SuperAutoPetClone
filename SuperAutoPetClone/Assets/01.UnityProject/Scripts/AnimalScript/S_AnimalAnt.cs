@@ -24,14 +24,5 @@ public class S_AnimalAnt : S_Animal
     }
 
     //! 데미지를 받았을 경우
-    void TakeDamage(int Enemydamage)
-    {
-        HP -= Enemydamage;
-    }
     
-    //! 죽었을 경우
-    void Die()
-    {
-
-    }
 }

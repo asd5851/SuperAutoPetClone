@@ -2,21 +2,29 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Animal : MonoBehaviour
+public class S_Animal : MonoBehaviour
 {
     private int hp;
     private int damage;
-    public int HP{
+    protected int HP{
         get
         {
             return hp;
         }
+        set
+        {
+            hp = value;
+        }
     }
-    public int Damage
+    protected int Damage
     {
         get
         {
             return damage;
+        }
+        set
+        {
+            damage = value;
         }
     }
     void Start()
@@ -28,6 +36,16 @@ public class Animal : MonoBehaviour
     void Update()
     {
         
+    }
+    protected void TakeDamage(int Enemydamage)
+    {
+        HP -= Enemydamage;
+    }
+    
+    //! 죽었을 경우
+    protected void Die()
+    {
+
     }
 
     
