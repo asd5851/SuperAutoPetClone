@@ -85,6 +85,13 @@ public static partial class GFunc
         return obj_.GetComponentMust<RectTransform>().sizeDelta;
     }       // GetRectSizeDelta()
 
+   
+    // public static Vector2 SetRectScaleReverse(this GameObject obj_)
+    // {
+    //     obj_.GetComponent<RectTransform>().SetLocalPositionAndRotation(new Vector3(-1,1,1),Quaternion.identity);
+    //     return obj_.GetComponent<RectTransform>().localScale;
+    // }
+
     //! ï¿½ï¿½ï¿½ï¿½ È°ï¿½ï¿½È­ ï¿½Ç¾ï¿½ ï¿½Ö´ï¿½ ï¿½ï¿½ï¿½ï¿½ Ã£ï¿½ï¿½ï¿½Ö´ï¿½ ï¿½Ô¼ï¿½
     public static Scene GetActiveScene()
     {
@@ -107,7 +114,7 @@ public static partial class GFunc
             obj_.transform.localPosition + new Vector3(x, y, z);
     }       // AddLocalPos()
 
-    //! Æ®ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½Ø¼ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ®ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½Ì´ï¿½ ï¿½Ô¼ï¿½
+    //! Æ®ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½Ø¼ï¿? ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ®ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½Ì´ï¿½ ï¿½Ô¼ï¿½
     public static void Translate(this Transform transform_, Vector2 moveVector)
     {
         transform_.Translate(moveVector.x, moveVector.y, 0f);
@@ -124,5 +131,18 @@ public static partial class GFunc
 
         return component_;
     }       // GetComponentMust()
+
+
+    //! ?˜¤ë¸Œì ?Š¸ë¥? ë°›ì•„????„œ Json ?°?´?„°ë¡? ë³?ê²½í•œ?‹¤.
+    public static string ObjectToJson(object obj)
+    {
+        return JsonUtility.ToJson(obj);
+    }
+
+    //! Json ?°?´?„°ë¥? ë°›ì•„????„œ Objectë¡? ë³?ê²½í•œ?‹¤.
+    public static T JsonToObject<T>(string jsonData)
+    {
+        return JsonUtility.FromJson<T>(jsonData);
+    }    
 
 }

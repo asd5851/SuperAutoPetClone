@@ -9,12 +9,22 @@ using UnityEngine;
 -> 다음클릭시 shoptile 일 경우 -> animal 정보를 변경한다.
 
 */
+public class BattleTileObject: MonoBehaviour
+{
+    public List<GameObject> battleAnimalList = new List<GameObject>();
+    void Start()
+    {
+        battleAnimalList = default;
+
+    }
+    
+}
 public class S_ObjectManager : MonoBehaviour
 {
     public bool isClicked_ = false;
-    GameObject selectedAnimal_ = default;
+    GameObject  selectedAnimal_ = default;
     public GameObject battleTileParent = default;
-    List<GameObject> battleAnimalList = default;
+    public List<GameObject> battleAnimalList = default;
     public GameObject[] battleTile = default;
     // Start is called before the first frame update
     void Start()
@@ -28,7 +38,7 @@ public class S_ObjectManager : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        SearchBattleAnimal(battleTileParent);
+        
     }
 
     //! 선택된 동물을 가져온다.
@@ -66,24 +76,23 @@ public class S_ObjectManager : MonoBehaviour
     //! 선택된 동물을 battletile의 하위에 넣는다.
     public GameObject SetSelectedAnimal()
     {
-        
         return selectedAnimal_;
     }
 
     //! 배틀탭에 있는 오브젝트를 서치한다.
-    void SearchBattleAnimal(GameObject target)
+    public void SearchBattleAnimal(GameObject target)
     {
         Transform[] allChildren = target.GetComponentsInChildren<Transform>();
         foreach (Transform child in allChildren)
         {
             if(child.gameObject.tag == "Animal")
             {
-                //battleAnimalList.Add(child.gameObject);
-                Debug.Log(child.name);
-            }
-
-            
+                battleAnimalList.Add(child.gameObject);
+                Debug.Log($"찾은 이름 : {child.name}");
+            }  
         }
         
     }
+    //! 턴 종료 버튼을 누르면 배틀탭의 오브젝트를 서치하는 함수 호출
+    
 }
